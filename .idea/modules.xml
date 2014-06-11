@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configuration/configuration.iml" filepath="$PROJECT_DIR$/configuration/configuration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/management-and-monitoring/management-and-monitoring.iml" filepath="$PROJECT_DIR$/management-and-monitoring/management-and-monitoring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/service-binding/service-binding.iml" filepath="$PROJECT_DIR$/service-binding/service-binding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceability/serviceability.iml" filepath="$PROJECT_DIR$/serviceability/serviceability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testing/testing.iml" filepath="$PROJECT_DIR$/testing/testing.iml" />
+    </modules>
+  </component>
+</project>
+

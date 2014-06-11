@@ -1,0 +1,5 @@
+---
+applications:
+- name: management-and-monitoring
+  path: target/management-and-monitoring-1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git

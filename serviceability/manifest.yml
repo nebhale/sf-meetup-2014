@@ -1,0 +1,5 @@
+---
+applications:
+- name: serviceability
+  path: target/serviceability-1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git

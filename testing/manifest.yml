@@ -1,0 +1,5 @@
+---
+applications:
+- name: testing
+  path: target/testing-1-SNAPSHOT.jar
+  buildpack: https://github.com/cloudfoundry/java-buildpack.git
